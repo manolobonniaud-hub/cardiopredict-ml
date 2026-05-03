@@ -14,7 +14,7 @@ Système de recommandation médicale basé sur le machine learning pour la déte
 
 Lancer l’application avec Streamlit (version récente recommandée) :
 
-streamlit run app.py
+python -m streamlit run cardioprotect.py
 
 ### Prérequis
 - Python 3.x
